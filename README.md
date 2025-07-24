@@ -108,12 +108,14 @@
 
 </body>
 </html>
-<style>
-  .big-logo {
-    font-size: 100px;
-    font-weight: bold;
-    text-align: center;
-    margin: 60px 0;
-    color: #20232a;
-  }
-</style>
+<h1 style="
+  font-size: 100px;
+  font-weight: bold;
+  background: linear-gradient(to right, #61dafb, #21a1f1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  margin: 80px 0;
+">
+  ALFA
+</h1>
