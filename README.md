@@ -108,3 +108,12 @@
 
 </body>
 </html>
+<style>
+  .big-logo {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    margin: 60px 0;
+    color: #20232a;
+  }
+</style>
