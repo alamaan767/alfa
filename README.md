@@ -72,9 +72,49 @@
 
   <!-- Sections -->
   <section id="home">
-    <h2>Home</h2>
-    <p>Welcome to ALFA. We deliver innovative solutions to elevate your business.</p>
-  </section>
+   <header>
+  <div class="logo">ALFA</div>
+  <nav>
+    <ul>
+      <li><a href="home.html">Home</a></li> <!-- Opens home.html -->
+   <html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Home | ALFA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 80px;
+      background-color: #f2f2f2;
+    }
+    h1 {
+      font-size: 60px;
+      color: #20232a;
+    }
+    p {
+      font-size: 20px;
+      color: #555;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      background: #20232a;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to the Home Page</h1>
+  <p>This is a separate page from the main site.</p>
+  <a href="index.html">Go Back to Main Page</a>
+
+</body>
+</html>
 
   <section id="ourwork">
     <h2>Our Work</h2>
